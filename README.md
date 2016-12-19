@@ -1,0 +1,2 @@
+# Zolga-The-Explorer
+Marks the adventures of a young alien wandering through space to seek fun in various challenges that this indefinite space can throw at him. In the game, Zolga take on the role of a spacecraft pilot. The character flies a single-seated ship, exploring the planets and space stations of game-leveled galaxies, galaxies here are the levels which the player climbs as he progresses. He may also engage in dogfights with other extra-terrestrial species (player- and computer-controlled) to protect their habitat
