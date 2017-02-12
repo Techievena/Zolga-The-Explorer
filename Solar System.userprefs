@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\TutorialInfo\Scripts\TutorialInfo.cs">
+    <Files>
+      <File FileName="Assets\TutorialInfo\Scripts\TutorialInfo.cs" Line="11" Column="8" />
+      <File FileName="Assets\Standard Assets\Vehicles\Aircraft\Scripts\AeroplaneController.cs" Line="1" Column="1" />
+      <File FileName="Assets\ADSu.cs" Line="1" Column="1" />
+      <File FileName="Assets\ADV.cs" Line="1" Column="1" />
+      <File FileName="Assets\ADE.cs" Line="1" Column="1" />
+      <File FileName="Assets\ADMa.cs" Line="1" Column="1" />
+      <File FileName="Assets\ADMe.cs" Line="1" Column="1" />
+      <File FileName="Assets\ADN.cs" Line="1" Column="1" />
+      <File FileName="Assets\ADSa.cs" Line="1" Column="1" />
+      <File FileName="Assets\ADU.cs" Line="1" Column="1" />
+      <File FileName="Assets\ADJ.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Done_GameController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
